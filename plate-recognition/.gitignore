@@ -1,0 +1,7 @@
+*.pt
+*.mp4
+*.csv
+__pycache__/
+.DS_Store
+sort/data/
+sort/__pycache__/
