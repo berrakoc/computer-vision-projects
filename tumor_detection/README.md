@@ -1,3 +1,6 @@
+
+<img width="1193" height="1056" alt="tumor" src="https://github.com/user-attachments/assets/a2c6e083-c5a8-4519-bc44-75627826bea8" />
+
 # Brain MRI Tumor Detection (Streamlit + Detectron2)
 
 A simple web app that lets you upload a brain MRI image and runs an object-detection model to draw bounding boxes around suspected tumor regions. The UI is built with Streamlit; detections are visualized with Plotly and can be toggled on/off.
