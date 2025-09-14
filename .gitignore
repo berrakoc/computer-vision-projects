@@ -7,3 +7,12 @@
 tumor_detection/model/
 tumor_detection/__pycache__/
 .DS_Store
+
+# macOS
+.DS_Store
+**/.DS_Store
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
