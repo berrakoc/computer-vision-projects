@@ -1,0 +1,9 @@
+
+# tumor_detection
+ tumor_detection/model/
+ tumor_detection/__pycache__/
+ *.pyc
+ .DS_Store
+tumor_detection/model/
+tumor_detection/__pycache__/
+.DS_Store
